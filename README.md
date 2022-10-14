@@ -2,4 +2,4 @@
 
 Instructions for setup my PC.
 
-You can found instructions in `/steps`.
+You can found instructions in `/docs`.
