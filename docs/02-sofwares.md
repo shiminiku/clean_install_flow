@@ -2,8 +2,7 @@
 
 ## 日本語入力
 
-Install Google 日本語入力  
-Set Personalization & Suggest > Use Input history to off
+I use **Microsoft IME**, it's ok.
 
 ## Editor/IDE - VSCode
 
