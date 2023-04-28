@@ -1,4 +1,4 @@
-# CleanInstall Flow
+# Clean Install Flow
 
 Instructions for setup my PC.
 
